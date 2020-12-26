@@ -4,8 +4,6 @@ use proc_macro::TokenStream;
 use quote::quote;
 use syn;
 
-#[proc_macro]
-h
 
 #[cfg(test)]
 mod tests {
